@@ -1,0 +1,20 @@
+# Configurações do Intellij
+/.idea/
+*.iml
+
+# Configurações do Eclipse
+/.settings/
+/.project
+/.classpath
+
+# Compilados
+*.class
+
+# Package Files
+#*.war
+
+# Log file
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
